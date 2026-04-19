@@ -5,4 +5,7 @@ Actualmente me enfoco en perfeccionar mis habilidades en logica de progrmacion y
 ##Lenguajes: ## c#, Python, Java Script, Html/Css
 ##Herramientas: ## Git, GitHub, MySQL
 ##Frameworks: ## React, Laravel
-["Eco Drive" (Asistente de mantenimeinto automotriz)]  (enlace-al-repo): Aprovechando el interés por la mecánica (como los sistemas de un Hyundai Accent), puedes crear una aplicación de consola o web sencilla que gestione el historial de vida de un vehículo.
+Proyecots destacados ["Eco Drive" (Asistente de mantenimeinto automotriz)]  (https://github.com/edwinmerariguch-ops/Eco-Drive.git): Aprovechando el interés por la mecánica (como los sistemas de un Hyundai Accent), puedes crear una aplicación de consola o web sencilla que gestione el historial de vida de un vehículo.
+### Como contactarme:
+**LinkedIn:** [Tu Perfil](enlace)
+- **Email:** `tu-correo@ejemplo.com`
