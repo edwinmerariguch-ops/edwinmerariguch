@@ -8,4 +8,4 @@ Actualmente me enfoco en perfeccionar mis habilidades en logica de progrmacion y
 Proyecots destacados ["Eco Drive" (Asistente de mantenimeinto automotriz)]  (https://github.com/edwinmerariguch-ops/Eco-Drive.git): Aprovechando el interés por la mecánica (como los sistemas de un Hyundai Accent), puedes crear una aplicación de consola o web sencilla que gestione el historial de vida de un vehículo.
 ### Como contactarme:
 **LinkedIn:** [edwinmerariguch] (https://github.com/edwinmerariguch-ops/edwinmerariguch.git)
-- **Email:** `ngmerariguchmajano@gmail.com`
+- **Email:** `ingmerariguchmajano@gmail.com`
